@@ -1,1 +1,12 @@
-
+[
+  {
+    "name": "WeMod",
+    "download_url": "https://cdn.wemod.com/app/WEMODSetup.exe",
+    "icon_url": "https://cdn.wemod.com/favicon.ico"
+  },
+  {
+    "name": "ExampleApp",
+    "download_url": "https://example.com/exes/exampleapp.exe",
+    "icon_url": "https://example.com/icons/exampleapp.ico"
+  }
+]

@@ -2,11 +2,13 @@
   {
     "name": "ExampleDLL1",
     "download_url": "https://example.com/dlls/example1.dll",
-    "icon_url": "https://example.com/icons/example1.ico"
+    "icon_url": "https://example.com/icons/example1.ico",
+    "process_name": "game.exe"
   },
   {
     "name": "ExampleDLL2",
     "download_url": "https://example.com/dlls/example2.dll",
-    "icon_url": "https://example.com/icons/example2.ico"
+    "icon_url": "https://example.com/icons/example2.ico",
+    "process_name": "game.exe"
   }
 ]
